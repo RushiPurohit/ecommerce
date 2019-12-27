@@ -1,2 +1,1 @@
-# ecommerce
-new project
+# new_ecommerce
